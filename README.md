@@ -47,11 +47,3 @@ Este projeto é uma calculadora de Índice de Massa Corporal (IMC) desenvolvida 
 
 - `InvalidInputException`: Lançada quando a entrada do usuário é inválida (por exemplo, altura ou peso não positivos).
 - `DataAccessException`: Lançada quando ocorre um erro ao acessar o banco de dados.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
