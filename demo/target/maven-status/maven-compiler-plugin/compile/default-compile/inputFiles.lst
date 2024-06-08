@@ -1,0 +1,7 @@
+/home/rubens/Desenvolvimento/Projetos/Java/BMI_Calculator/demo/src/main/java/com/example/model/dao/BMIRecordDAO.java
+/home/rubens/Desenvolvimento/Projetos/Java/BMI_Calculator/demo/src/main/java/com/example/Main.java
+/home/rubens/Desenvolvimento/Projetos/Java/BMI_Calculator/demo/src/main/java/com/example/exception/InvalidInputException.java
+/home/rubens/Desenvolvimento/Projetos/Java/BMI_Calculator/demo/src/main/java/com/example/BMICalculator.java
+/home/rubens/Desenvolvimento/Projetos/Java/BMI_Calculator/demo/src/main/java/com/example/exception/DataAccessException.java
+/home/rubens/Desenvolvimento/Projetos/Java/BMI_Calculator/demo/src/main/java/com/example/model/BMIRecord.java
+/home/rubens/Desenvolvimento/Projetos/Java/BMI_Calculator/demo/src/main/java/com/example/database/DatabaseConnection.java
